@@ -1,0 +1,849 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4c8a4dc15d354e45bd3ca0f63558542, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: dcc03fd59a8617418f4de89f13d097b2
+    GuidInternal: 
+    m_lastTime: -8586210103697549649
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 0796d1221ac47949a774c7fe98a1093e
+    GuidInternal: 
+    m_lastTime: -8586210103698646737
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 7cfde5de48680942b810d9b755cefd2e
+    GuidInternal: 
+    m_lastTime: -8586210103698247861
+    List: []
+  - PhysicalPath: SoundBanks\POC_drum_gtr_vla_20191111.wwu
+    ParentPhysicalPath: 
+    guid: b547452856d6e74a81981169533ab248
+    GuidInternal: 
+    m_lastTime: -8586251778755920602
+    List:
+    - name: POC_drum_gtr_vla_20191111_soundbank
+      guid: 05ed7363cea5b044859632adffe82959
+      id: 298227623
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_vla_20191111
+        ObjectType: 12
+      - ElementName: POC_drum_gtr_vla_20191111_soundbank
+        ObjectType: 7
+      Path: POC_drum_gtr_vla_20191111\POC_drum_gtr_vla_20191111_soundbank
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 4141ecfc0589744cacf51b538d8d4718
+    GuidInternal: 
+    m_lastTime: -8586210103698537004
+    List: []
+  - PhysicalPath: Events\POC_drum_gtr_20191111.wwu
+    ParentPhysicalPath: 
+    guid: 855cfdc901c369439a733c6221f479e8
+    GuidInternal: 
+    m_lastTime: -8586251778744490843
+    List:
+    - name: drum_solo_rehearsal_1_9M
+      guid: 15580166375cc24991bdcf70c5f4ef2d
+      id: 510301626
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Solo - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_1_9M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Solo - Rehearsal Numbers\drum_solo_rehearsal_1_9M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_1_click_2M
+      guid: 6184b86b05fd9d4cbcbcaa4fd1485184
+      id: 385244396
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 1
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_1_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 1\drum_solo_rehearsal_1_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_1_click_4M
+      guid: 46bcdb0ccfcb3d4aa3ed59fce296fe07
+      id: 418799562
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 1
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_1_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 1\drum_solo_rehearsal_1_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_2_6M
+      guid: 7fe6c523ef40ec489233099c2000e71b
+      id: 2448613450
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Solo - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_2_6M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Solo - Rehearsal Numbers\drum_solo_rehearsal_2_6M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_2_click_2M
+      guid: faf85f8f1acdf84f99c5bc44ab63780b
+      id: 803086545
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 2
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_2_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 2\drum_solo_rehearsal_2_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_2_click_4M
+      guid: 69dd9684e8a45a4aaf76415ecab22562
+      id: 769531387
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 2
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_2_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 2\drum_solo_rehearsal_2_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_3_3M
+      guid: fc673cbd8dcbd54bbc582ed4d1d790eb
+      id: 3927597646
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Solo - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_3_3M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Solo - Rehearsal Numbers\drum_solo_rehearsal_3_3M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_3_click_2M
+      guid: a749efa6918b4a488746b3d257ad992b
+      id: 2438940898
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 3
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_3_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 3\drum_solo_rehearsal_3_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: drum_solo_rehearsal_3_click_4M
+      guid: 4a305337ccf58c4b9cf489c92147e763
+      id: 2405385476
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 3
+        ObjectType: 4
+      - ElementName: drum_solo_rehearsal_3_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 3\drum_solo_rehearsal_3_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_1_9M
+      guid: e363d19a354895449f63eaf130f75f6f
+      id: 3809843873
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Solo - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_1_9M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Solo - Rehearsal Numbers\gtr_solo_rehearsal_1_9M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_1_click_2M
+      guid: 845c82bff92aee4abecf9445c264d307
+      id: 2393566019
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 1
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_1_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 1\gtr_solo_rehearsal_1_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_1_click_4M
+      guid: 019dda1dbfb72145af773a02a900d4e5
+      id: 2427121209
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 1
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_1_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 1\gtr_solo_rehearsal_1_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_2_6M
+      guid: 191a818c59b6af469e4b6639a3eeb0c0
+      id: 498063921
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Solo - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_2_6M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Solo - Rehearsal Numbers\gtr_solo_rehearsal_2_6M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_2_click_2M
+      guid: a2d82f387c45894ab792e12f984da567
+      id: 1588404322
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 2
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_2_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 2\gtr_solo_rehearsal_2_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_2_click_4M
+      guid: ca749e30face984cb8045db1f7092e21
+      id: 1554848900
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 2
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_2_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 2\gtr_solo_rehearsal_2_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_3_3M
+      guid: 5cfa6b6002cfcd49ab34538435e0958b
+      id: 3179826085
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Solo - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_3_3M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Solo - Rehearsal Numbers\gtr_solo_rehearsal_3_3M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_3_click_2M
+      guid: 827ae07582cb3f41ae69890e5f05c661
+      id: 4247517265
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 3
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_3_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 3\gtr_solo_rehearsal_3_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: gtr_solo_rehearsal_3_click_4M
+      guid: 21ae6107e2879b4c9424402925ccba09
+      id: 4213962107
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Solo
+        ObjectType: 4
+      - ElementName: Rehearsal 3
+        ObjectType: 4
+      - ElementName: gtr_solo_rehearsal_3_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Solo\Rehearsal 3\gtr_solo_rehearsal_3_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_1_9M
+      guid: f9c063fc7ae43c43bb1e7f601f6994c9
+      id: 324336606
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause & Resume - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_1_9M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Pause & Resume - Rehearsal Numbers\Pause_rehearsal_1_9M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_1_click_2M
+      guid: 97ba955f33f38c4b8b2bb75ba08ff69f
+      id: 1966906000
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_1_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Pause_rehearsal_1_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_1_click_4M
+      guid: 00923d8ac07f8d40924b990398ee9f46
+      id: 1866240486
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_1_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Pause_rehearsal_1_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_2_6M
+      guid: 81e3a87a27d2734f99ca1d437b3c7513
+      id: 259779766
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause & Resume - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_2_6M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Pause & Resume - Rehearsal Numbers\Pause_rehearsal_2_6M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_2_click_2M
+      guid: be0371ac71797f47a2eb528bb991faa2
+      id: 3893469861
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_2_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Pause_rehearsal_2_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_2_click_4M
+      guid: fbf7f854123f7e4ab15797996560bb94
+      id: 3994135639
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_2_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Pause_rehearsal_2_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_3_3M
+      guid: db7b5b6453d1df44a6595e8916fa6d7c
+      id: 4010074434
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause & Resume - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_3_3M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Pause & Resume - Rehearsal Numbers\Pause_rehearsal_3_3M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_3_click_2M
+      guid: c1e7682a57e2be49881bbeb21444d239
+      id: 1998768726
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_3_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Pause_rehearsal_3_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Pause_rehearsal_3_click_4M
+      guid: 5668c6fa253462489fda29b93c111f85
+      id: 2099434432
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Pause_rehearsal_3_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Pause_rehearsal_3_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: POC_rehearsal_1_9M
+      guid: c9242243be7049449e3fb36929523fd0
+      id: 3520207502
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: POC_rehearsal_1_9M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\POC_rehearsal_1_9M
+      maxAttenuation: 0
+      maxDuration: 13.125
+      minDuration: 13.125
+    - name: POC_rehearsal_1_9M_click_2M
+      guid: 024554781eee65429b795a006036b901
+      id: 337901125
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: POC_rehearsal_1_9M_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\POC_rehearsal_1_9M_click_2M
+      maxAttenuation: 0
+      maxDuration: 16.625
+      minDuration: 16.625
+    - name: POC_rehearsal_1_9M_click_4M
+      guid: bec60973f9db114cb47049314d36b28c
+      id: 438566903
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: POC_rehearsal_1_9M_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\POC_rehearsal_1_9M_click_4M
+      maxAttenuation: 0
+      maxDuration: 20.125
+      minDuration: 20.125
+    - name: POC_rehearsal_2_6M
+      guid: 3b2998165432754a9d525d8f3ac4a46e
+      id: 1297772966
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: POC_rehearsal_2_6M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\POC_rehearsal_2_6M
+      maxAttenuation: 0
+      maxDuration: 8.75
+      minDuration: 8.75
+    - name: POC_rehearsal_2_6M_click_2M
+      guid: 4e42b7842a8d8841980d73578571151a
+      id: 512257933
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: POC_rehearsal_2_6M_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\POC_rehearsal_2_6M_click_2M
+      maxAttenuation: 0
+      maxDuration: 12.25
+      minDuration: 12.25
+    - name: POC_rehearsal_2_6M_click_4M
+      guid: 6175e3ba22f0054387202efec7d2dcdc
+      id: 612923711
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: POC_rehearsal_2_6M_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\POC_rehearsal_2_6M_click_4M
+      maxAttenuation: 0
+      maxDuration: 15.75
+      minDuration: 15.75
+    - name: POC_rehearsal_3_3M
+      guid: 006ba71bfb28f241b32bd6ea9500a6c0
+      id: 763442866
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: POC_rehearsal_3_3M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\POC_rehearsal_3_3M
+      maxAttenuation: 0
+      maxDuration: 4.375
+      minDuration: 4.375
+    - name: POC_rehearsal_3_6M_click_2M
+      guid: a4333121cd3865488dc51b672bcc17f8
+      id: 1388860176
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: POC_rehearsal_3_6M_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\POC_rehearsal_3_6M_click_2M
+      maxAttenuation: 0
+      maxDuration: 7.875
+      minDuration: 7.875
+    - name: POC_rehearsal_3_6M_click_4M
+      guid: e5de98a12ea48245b04769807b706a3f
+      id: 1288194662
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: POC_rehearsal_3_6M_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\POC_rehearsal_3_6M_click_4M
+      maxAttenuation: 0
+      maxDuration: 11.375
+      minDuration: 11.375
+    - name: Resume_rehearsal_1_9M
+      guid: 835343120f7ce94b8b98121d9ede0d72
+      id: 2174653453
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause & Resume - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_1_9M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Pause & Resume - Rehearsal Numbers\Resume_rehearsal_1_9M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_1_click_2M
+      guid: 11d38fee92c5824facee3142715ed7fa
+      id: 3768773759
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_1_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Resume_rehearsal_1_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_1_click_4M
+      guid: dae0a1ee0880da42a4940e51c75de03e
+      id: 3668107981
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_1_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Resume_rehearsal_1_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_2_6M
+      guid: c1ec40e2f23e1c4bbd46f246636de8e9
+      id: 1454545237
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause & Resume - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_2_6M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Pause & Resume - Rehearsal Numbers\Resume_rehearsal_2_6M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_2_click_2M
+      guid: 43d5d7084a0a6b41bc4d641e626d4b0a
+      id: 3134184302
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_2_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Resume_rehearsal_2_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_2_click_4M
+      guid: d4e135a37fdab9498e12903b8f4e94cb
+      id: 3234849816
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_2_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Resume_rehearsal_2_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_3_3M
+      guid: eb50970205ee054fb661b29cb571fd90
+      id: 3744090353
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Pause & Resume - Rehearsal Numbers
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_3_3M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Rehearsal Numbers\Pause & Resume - Rehearsal Numbers\Resume_rehearsal_3_3M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_3_click_2M
+      guid: fb12b935f575bc41ab749256dd8060d8
+      id: 3928288829
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_3_click_2M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Resume_rehearsal_3_click_2M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Resume_rehearsal_3_click_4M
+      guid: 8636ff598dff0843ab674d204bcbf4e4
+      id: 4028954543
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Click
+        ObjectType: 4
+      - ElementName: Pause & Resume - Click
+        ObjectType: 4
+      - ElementName: Resume_rehearsal_3_click_4M
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Click\Pause & Resume - Click\Resume_rehearsal_3_click_4M
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_All
+      guid: 6bb82d04e14a9543b7cae2aea50fbcd9
+      id: 452547817
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Stop_All
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Stop_All
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Unmute_All
+      guid: 0a44a50362d4d447b25fc0dbdf3ffde3
+      id: 4003578643
+      PathAndIcons:
+      - ElementName: POC_drum_gtr_20191111
+        ObjectType: 12
+      - ElementName: Unmute_All
+        ObjectType: 3
+      Path: POC_drum_gtr_20191111\Unmute_All
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 9d2c678cb8c0114eabc837364931534f
+    GuidInternal: 
+    m_lastTime: -8586210103698138150
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: c9f515273ad38847af5a7979bf67f251
+    GuidInternal: 
+    m_lastTime: -8586210103698337614
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 4c2db97c1ea50c4489aacb5f1545d538
+    GuidInternal: 
+    m_lastTime: -8586210103698437335
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 465e3a0d517b704096d5359470d3edaa
+    GuidInternal: 
+    m_lastTime: -8586210103697031109
+    List: []
+  ExpandedItems:
+  - /POC_drum_gtr_vla_20191111
+  - /POC_drum_gtr_vla_20191111/Events
+  - /POC_drum_gtr_vla_20191111/Events/POC_drum_gtr_20191111
+  - /POC_drum_gtr_vla_20191111/Events/POC_drum_gtr_20191111/Click
+  - /POC_drum_gtr_vla_20191111/Events/POC_drum_gtr_20191111/Click/Solo
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

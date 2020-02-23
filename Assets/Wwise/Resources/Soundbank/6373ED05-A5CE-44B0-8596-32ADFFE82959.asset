@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88b4a5ca5013604f904245290aca3da, type: 3}
+  m_Name: 6373ED05-A5CE-44B0-8596-32ADFFE82959
+  m_EditorClassIdentifier: 
+  objectName: POC_drum_gtr_vla_20191111_soundbank
+  id: 298227623
+  guid: 6373ED05-A5CE-44B0-8596-32ADFFE82959

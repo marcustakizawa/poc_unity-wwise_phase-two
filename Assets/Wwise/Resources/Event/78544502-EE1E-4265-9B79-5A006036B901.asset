@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ff70396a26d5d347b34854f679298a6, type: 3}
+  m_Name: 78544502-EE1E-4265-9B79-5A006036B901
+  m_EditorClassIdentifier: 
+  objectName: POC_rehearsal_1_9M_click_2M
+  id: 337901125
+  guid: 78544502-EE1E-4265-9B79-5A006036B901
