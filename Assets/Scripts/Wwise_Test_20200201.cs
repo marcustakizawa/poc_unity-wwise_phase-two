@@ -24,6 +24,10 @@ public class Wwise_Test_20200201 : MonoBehaviour
     public Toggle toggle_gtrSolo;
     public Toggle toggle_drumSolo;
 
+    // Callback Function Tests
+
+    public static uint musicEventID;
+
     // Keys for PlayerPrefs, using PlayerPrefs.GetInt("key1", key2)
 
     /***PRE-CLICK***/
@@ -47,15 +51,18 @@ public class Wwise_Test_20200201 : MonoBehaviour
         pc2 = PlayerPrefs.GetInt("preClick_2b", pc2_intValue);
         pc4 = PlayerPrefs.GetInt("preClick_4b", pc4_intValue);
 
+        musicEventID = 3520207502;
+
         /**** Play Events, No Pre-Click ****/
 
         // Rehearsal 1
 
         if ((r1 == 1) && (pc2 != 1) && (pc4 != 1))
         {
-            AkSoundEngine.PostEvent("POC_rehearsal_1_9M", GameObject.FindWithTag("PlayContainer"));
-        }
+            AkSoundEngine.PostEvent("POC_rehearsal_1_9M", GameObject.FindWithTag("PlayContainer"));   
 
+        }
+    
         // Rehearsal 2
 
         if ((r2 == 1) && (pc2 != 1) && (pc4 != 1))
@@ -102,8 +109,10 @@ public class Wwise_Test_20200201 : MonoBehaviour
             AkSoundEngine.PostEvent("POC_rehearsal_3_6M_click_4M", GameObject.FindWithTag("PlayContainer"));
         }
 
+       
 
     }
+
 
     public void Wwise_Test_StopEvent()
     {

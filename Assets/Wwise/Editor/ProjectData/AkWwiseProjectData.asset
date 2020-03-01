@@ -842,8 +842,7 @@ MonoBehaviour:
   ExpandedItems:
   - /POC_drum_gtr_vla_20191111
   - /POC_drum_gtr_vla_20191111/Events
-  - /POC_drum_gtr_vla_20191111/Events/POC_drum_gtr_20191111
-  - /POC_drum_gtr_vla_20191111/Events/POC_drum_gtr_20191111/Click
-  - /POC_drum_gtr_vla_20191111/Events/POC_drum_gtr_20191111/Click/Solo
+  - /POC_drum_gtr_vla_20191111/SoundBanks
+  - /POC_drum_gtr_vla_20191111/SoundBanks/POC_drum_gtr_vla_20191111
   autoPopulateEnabled: 1
   CurrentPluginConfig: 

@@ -3,7 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PreClick_2B
+  - Toggle_R3
+  - Toggle_R1
+  - PreClick_4B
+  - Toggle_R2
+  - PreClick_Disabled
+  - Toggle_DrumSolo
+  - Toggle_GtrSolo
+  - playButton
+  - PlayContainer
+  - checkSettings
+  - toggleEndOfEvent
+  - settings
+  - StartingPosition_Text
+  - PreClickBars_Text
+  - ToggleCheck_Text
+  - CallbackTesting
+  - MusicEventManager
   layers:
   - Default
   - TransparentFX
